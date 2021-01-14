@@ -1,0 +1,19 @@
+.panda-card{
+    border: 0;
+    border-radius: 15px;
+}
+.img-card-box{
+    border: 0;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+.link-button{
+    border-radius: 10px;
+    background-color: #A4BC46;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+.color-heading, h4{
+    color:#363958;
+}
